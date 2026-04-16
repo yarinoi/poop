@@ -288,10 +288,10 @@
       sprite: "Effects/creampie.rsi"
       state: "creampie_resomi"
       visible: false
- # - type: CollectiveMind # Omu, kinda annoying dude
- #   defaultChannel: Nexus
- #   channels:
- #     - Nexus
+  - type: CollectiveMind # Byrd - wow!
+    defaultChannel: Nexus
+    channels:
+      - Nexus
 
 - type: entity
   parent: BaseSpeciesDummy
